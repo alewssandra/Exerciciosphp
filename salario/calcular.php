@@ -32,14 +32,6 @@
         echo "Seu novo salario com 5% de aumento é: ".($_POST["salario"]*1.05)."<br><br>";
     }
 
-
-    
-
-
-
-    
-
-
 ?>
 <form>
 <br><br>
